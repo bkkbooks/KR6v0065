@@ -16,17 +16,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0065_000.yaml, hash: 'sha256:42e91620de6493c4d32a870428d52748fdf398d69872637bbebb8bb64720abdd'}
+  - {seq: 0, filename: KR6v0065_000.yaml, hash: 'sha256:db77162e0d42835c161e92f05a68f417c4def03130558bff47fef45c728d15c5'}
   - {seq: 1, filename: KR6v0065_001.yaml, hash: 'sha256:6f7d23d946f4056d9fe1108d6905cb0283762497b132b6d7b9aeb67716d47259'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0065_000.markers.yaml, hash: 'sha256:a678af2a9afc77fc9cc03823ce86a16afa46b2b23b7f34000cbaed2c8e9a578f'}
+  - {seq: 0, role: markers, filename: assets/KR6v0065_000.markers.yaml, hash: 'sha256:a1c1316fc6331683cdb07eed775e3075492625b3c3be45aea1a5611db6fd0cf6'}
   - {seq: 1, role: markers, filename: assets/KR6v0065_001.markers.yaml, hash: 'sha256:972094dc64e020fb545a0e314551f8a0b1086bf935abeecf23378b0d6eea6499'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0065_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0065_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 473
     - 473
   label: 錄文
@@ -412,7 +412,7 @@ table_of_contents:
   label: 結語
   type: mulu
   level: 1
-hash: sha256:15ff7b5372c15443888a52c20cbbf403e9edb2d6ac13447adedb0bedd615452e
+hash: sha256:f901a961a7725144269f25ce8af4c327baf0c6c19b8d27201124bcc1bde4f3b5
 editions:
 - short: ZW
 mappings:
